@@ -5024,29 +5024,36 @@
     - Only compiles the CSS you use (no need to use PurgeCSS/similar).
     - Automatically gives you Critical CSS with inline stlyes.
     - Hybrid of PostCSS and CSS-in-JS to give you Tailwind base styles.
-- url: https://5e0a570d6afb0ef0fb162f0f--wizardly-bassi-e4658f.netlify.app/
+- url: https://nervous-davinci-04af63.netlify.app
   repo: https://github.com/adamistheanswer/gatsby-starter-baysik-blog
   description: A basic and themeable starter for creating blogs in Gatsby.
   tags:
     - Blog
     - Portfolio
     - MDX
-    - Markdown
     - SEO
     - Styling:CSS-in-JS
-    - Linting
   features:
     - Specially designed to create a personal website
     - Clean and Minimalistic UI
     - Facebook Comments
     - Mobile friendly, all elements and custom images are adapted to any screen
     - Light/Dark mode
-    - Prettier code formatting
     - RSS
-    - Links to your social networks
+    - Lunr Search
     - MDX for pages and content
-    - Code syntax highlighting
     - SEO (OpenGraph and Twitter) out of the box with default settings that make sense (thanks to React Helmet)
+    - url: https://serene-mirzakhani-b98ebd.netlify.app/
+    repo: https://github.com/adamistheanswer/gatsby-starter-baysik-documentation
+    description: A starter for creating documentation / help sites using Gatsby.
+    tags:
+      - Documentation
+      - Markdown
+      - SEO
+      - Styling:CSS-in-JS
+    features:
+      - Specially designed to create a documentation / help website
+      - Lunr search for finding help topics 
 - url: https://gatsby-starter-robin.netlify.app/
   repo: https://github.com/robinmetral/gatsby-starter-robin
   description: Gatsby Default Starter with state-of-the-art tooling
